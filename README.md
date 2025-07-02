@@ -1,7 +1,8 @@
 # Data Jobs Dashboard w/ Power BI
 
 ![Dashboard Page 1](/images/img1.png)
-[View Interactive dasbboard here]()
+
+[YOU CAN DOWNLOAD THE INTERACTIVE DASHBOARD FROM THE Data_Jobs_Dashboard_pbix FILE MENTION ABOVE ]()
 
 ## Introduction
 
